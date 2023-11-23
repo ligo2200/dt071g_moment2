@@ -1,0 +1,14 @@
+C:\Linda\webbutveckling\år2\DT071G\moment2_dt071g\moment2_dt071g_ligo2200\moment2_dt071g_ligo2200\bin\Debug\net7.0\moment2_dt071g_ligo2200.exe
+C:\Linda\webbutveckling\år2\DT071G\moment2_dt071g\moment2_dt071g_ligo2200\moment2_dt071g_ligo2200\bin\Debug\net7.0\moment2_dt071g_ligo2200.deps.json
+C:\Linda\webbutveckling\år2\DT071G\moment2_dt071g\moment2_dt071g_ligo2200\moment2_dt071g_ligo2200\bin\Debug\net7.0\moment2_dt071g_ligo2200.runtimeconfig.json
+C:\Linda\webbutveckling\år2\DT071G\moment2_dt071g\moment2_dt071g_ligo2200\moment2_dt071g_ligo2200\bin\Debug\net7.0\moment2_dt071g_ligo2200.dll
+C:\Linda\webbutveckling\år2\DT071G\moment2_dt071g\moment2_dt071g_ligo2200\moment2_dt071g_ligo2200\bin\Debug\net7.0\moment2_dt071g_ligo2200.pdb
+C:\Linda\webbutveckling\år2\DT071G\moment2_dt071g\moment2_dt071g_ligo2200\moment2_dt071g_ligo2200\obj\Debug\net7.0\moment2_dt071g_ligo2200.GeneratedMSBuildEditorConfig.editorconfig
+C:\Linda\webbutveckling\år2\DT071G\moment2_dt071g\moment2_dt071g_ligo2200\moment2_dt071g_ligo2200\obj\Debug\net7.0\moment2_dt071g_ligo2200.AssemblyInfoInputs.cache
+C:\Linda\webbutveckling\år2\DT071G\moment2_dt071g\moment2_dt071g_ligo2200\moment2_dt071g_ligo2200\obj\Debug\net7.0\moment2_dt071g_ligo2200.AssemblyInfo.cs
+C:\Linda\webbutveckling\år2\DT071G\moment2_dt071g\moment2_dt071g_ligo2200\moment2_dt071g_ligo2200\obj\Debug\net7.0\moment2_dt071g_ligo2200.csproj.CoreCompileInputs.cache
+C:\Linda\webbutveckling\år2\DT071G\moment2_dt071g\moment2_dt071g_ligo2200\moment2_dt071g_ligo2200\obj\Debug\net7.0\moment2_dt071g_ligo2200.dll
+C:\Linda\webbutveckling\år2\DT071G\moment2_dt071g\moment2_dt071g_ligo2200\moment2_dt071g_ligo2200\obj\Debug\net7.0\refint\moment2_dt071g_ligo2200.dll
+C:\Linda\webbutveckling\år2\DT071G\moment2_dt071g\moment2_dt071g_ligo2200\moment2_dt071g_ligo2200\obj\Debug\net7.0\moment2_dt071g_ligo2200.pdb
+C:\Linda\webbutveckling\år2\DT071G\moment2_dt071g\moment2_dt071g_ligo2200\moment2_dt071g_ligo2200\obj\Debug\net7.0\moment2_dt071g_ligo2200.genruntimeconfig.cache
+C:\Linda\webbutveckling\år2\DT071G\moment2_dt071g\moment2_dt071g_ligo2200\moment2_dt071g_ligo2200\obj\Debug\net7.0\ref\moment2_dt071g_ligo2200.dll
